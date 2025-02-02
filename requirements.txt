@@ -4,5 +4,8 @@ folium
 matplotlib
 dash
 numpy
+altair
+anywidget
+scikit_learn
 gunicorn
 dash_mantine_components

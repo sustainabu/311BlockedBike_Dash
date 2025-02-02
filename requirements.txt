@@ -1,0 +1,8 @@
+pandas
+plotly
+folium
+matplotlib
+dash
+numpy
+gunicorn
+dash_mantine_components
